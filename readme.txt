@@ -12,6 +12,9 @@ Adds Bootstrap styles to Gravity Forms
 == Description ==
 Enqueues a stylesheet that adds Bootstrap styles to Gravity Forms forms.
 
+== Screenshots ==
+1. A Gravity Forms form with Bootstrap 3 Style applied
+
 == Installation ==
 1. Enable Plugin
 2. In Gravity Forms Settings, turn off \"Output CSS\"
