@@ -12,7 +12,7 @@ defined('ABSPATH') or die("These aren't the droids you're looking for");
 
 if( ! function_exists( 'gravity_forms_bootstrap_style' ) ) {
   function gravity_forms_bootstrap_style() {
-    wp_register_style( 'gravity-bootstrap', plugins_url('gravity-forms-bootstrap.css'), array(), '1.0', 'all' );
+    wp_register_style( 'gravity-bootstrap', plugins_url('gravity-forms-bootstrap-3-style/gravity-forms-bootstrap.css'), array(), '1.0', 'all' );
     wp_enqueue_style( 'gravity-bootstrap' );
   }
 
