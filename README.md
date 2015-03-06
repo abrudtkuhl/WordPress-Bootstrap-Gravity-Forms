@@ -12,4 +12,5 @@ Usage
 
 Thanks
 ------
-[@DevinWalker](https://gist.github.com/DevinWalker/7110951#file-gravity-forms_bootstrap)
+[@DevinWalker](https://gist.github.com/DevinWalker/7110951#file-gravity-forms_bootstrap)  
+[@wesbeale](https://github.com/wesbeale)
