@@ -10,6 +10,12 @@ Usage
 3) Enable Plugin  
 4) Drink A Beer  
 
+Changelog
+---------
+0.2 - [Fixed CSS Path](https://github.com/abrudtkuhl/WordPress-Bootstrap-Gravity-Forms/pull/3)
+0.1 - Plugin Boom
+
+
 Thanks
 ------
 [@DevinWalker](https://gist.github.com/DevinWalker/7110951#file-gravity-forms_bootstrap)  
