@@ -1,4 +1,4 @@
-WordPress-Bootstrap-Gravity-Forms
+Bootstrap Style for Gravity Forms
 =================================
 
 A WordPress plugin to apply Bootstrap 3 styles to Gravity Forms plugin
