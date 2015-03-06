@@ -2,7 +2,7 @@
 Contributors: abrudtkuhl
 Tags: bootstrap, gravity forms
 Requires at least: 3.5
-Tested up to: 4.1
+Tested up to: 4.1.1
 Stable tag: trunk
 License: GNU GENERAL PUBLIC LICENSE
 License URI: https://github.com/abrudtkuhl/WordPress-Bootstrap-Gravity-Forms/blob/master/LICENSE
