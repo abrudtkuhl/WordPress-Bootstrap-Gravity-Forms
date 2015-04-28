@@ -21,5 +21,6 @@ Enqueues a stylesheet that adds Bootstrap styles to Gravity Forms forms.
 3. In Gravity Forms Settings, turn on \"Output HTML5\"
 
 == Changelog ==
+0.3 - Fixed multi step form button styles
 0.2 - Fixed CSS Path https://github.com/abrudtkuhl/WordPress-Bootstrap-Gravity-Forms/pull/3
 0.1 - Plugin Boom
