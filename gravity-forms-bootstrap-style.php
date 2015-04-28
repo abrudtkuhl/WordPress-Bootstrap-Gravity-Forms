@@ -5,7 +5,7 @@ defined('ABSPATH') or die("These aren't the droids you're looking for");
  * Plugin Name: Gravity Forms Bootstrap 3 Style
  * Plugin URI: https://github.com/abrudtkuhl/WordPress-Bootstrap-Gravity-Forms
  * Description: Use Bootstrap 3 form styles with Gravity Forms
- * Version: 0.1
+ * Version: 0.3
  * Author: Andy Brudtkuhl
  * Author URI: http://youmetandy.com
  */
