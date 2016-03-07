@@ -39,7 +39,7 @@ textarea.ginput_container input, textarea.ginput_container select, textarea.ginp
 
 .gform_wrapper .button:hover, .gform_button:hover, .gform_button:focus { color: #333; text-decoration: none }
 
-.gform_wrapper .button:active, .gform_wrapper .button.active, , .gform_button:active, .gform_button.active { background-image: none; outline: 0; -webkit-box-shadow: inset 0 3px 5px rgba(0,0,0,0.125); box-shadow: inset 0 3px 5px rgba(0,0,0,0.125) }
+.gform_wrapper .button:active, .gform_wrapper .button.active, .gform_button:active, .gform_button.active { background-image: none; outline: 0; -webkit-box-shadow: inset 0 3px 5px rgba(0,0,0,0.125); box-shadow: inset 0 3px 5px rgba(0,0,0,0.125) }
 
 .gform_wrapper .button.disabled, .gform_button.disabled, .gform_button[disabled], fieldset[disabled] .gform_button { pointer-events: none; cursor: not-allowed; opacity: .65; filter: alpha(opacity=65); -webkit-box-shadow: none; box-shadow: none }
 
